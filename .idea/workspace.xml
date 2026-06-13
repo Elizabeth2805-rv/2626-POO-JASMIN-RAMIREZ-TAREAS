@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec502b75-35cc-4652-8a9f-86388f54f697" name="Changes" comment="">
+    <list default="true" id="ec502b75-35cc-4652-8a9f-86388f54f697" name="Changes" comment="tarea semana 2">
+      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo/mascota.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_tradicional/tradicional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,38 +22,166 @@
       <entry key="_C:/Users/LENOVO/Desktop/PROGRAMACION ORIENTADA O OBJETOS (C) 2do. Sem/TAREAS PYTHON 2DO SEM" value="3ElrrT8vCvirbfJurfMr4RVPi1z" />
     </persistenceIdMap>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PARCIAL 1/SEMANA 2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elizabeth2805-rv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Elizabeth2805-rv/2626-RAMIREZ-JASMIN--.git&quot;,
+    &quot;accountId&quot;: &quot;10d27c5c-29df-4bc0-a8a0-5cd3ff4fcc72&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4174453675754042" />
+      <entry key="MS500" value="2.419316962085973" />
+      <entry key="S2" value="3.891945031142762" />
+      <entry key="S5" value="5.370107450504618" />
+      <entry key="S10" value="6.8644701740780425" />
+      <entry key="S30" value="10.382824973181695" />
+      <entry key="S60" value="14.973841584101658" />
+      <entry key="M2" value="23.178454620962494" />
+      <entry key="M5" value="37.82772474958202" />
+      <entry key="M10" value="47.48303414673923" />
+      <entry key="M15" value="51.66358139197014" />
+      <entry key="M30" value="56.46631061736687" />
+      <entry key="H1" value="59.13422958253074" />
+      <entry key="H2" value="60.54136596328037" />
+      <entry key="H4" value="61.26411373131244" />
+      <entry key="D1" value="61.87642845099726" />
+      <entry key="W1" value="61.98232414617501" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.4590966127246272" />
+      <entry key="MS500" value="1.6413452230983128" />
+      <entry key="S2" value="3.3996598550987214" />
+      <entry key="S5" value="5.016953764590634" />
+      <entry key="S10" value="6.586906732066769" />
+      <entry key="S30" value="10.22655164064889" />
+      <entry key="S60" value="14.873720026893691" />
+      <entry key="M2" value="23.11332312624606" />
+      <entry key="M5" value="37.790617278230414" />
+      <entry key="M10" value="47.46056720095549" />
+      <entry key="M15" value="51.647437838737204" />
+      <entry key="M30" value="56.45755788238299" />
+      <entry key="H1" value="59.12966168060389" />
+      <entry key="H2" value="60.539031180512346" />
+      <entry key="H4" value="61.262933243967964" />
+      <entry key="D1" value="61.87622985034311" />
+      <entry key="W1" value="61.9822957288309" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3ElrrT8vCvirbfJurfMr4RVPi1z" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="claude-haiku-4.5" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tradicional.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TAREAS PYTHON 2DO SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,11 +198,32 @@
       <updated>1780764196772</updated>
       <workItem from="1780764199607" duration="114000" />
       <workItem from="1780764333526" duration="167000" />
-      <workItem from="1780764511397" duration="3519000" />
+      <workItem from="1780764511397" duration="4514000" />
+      <workItem from="1781328019161" duration="66000" />
+      <workItem from="1781359102174" duration="736000" />
+      <workItem from="1781359887521" duration="5074000" />
+      <workItem from="1781367603958" duration="687000" />
     </task>
+    <task id="LOCAL-00001" summary="tarea semana 2">
+      <option name="closed" value="true" />
+      <created>1780768326120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780768326120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tarea semana 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tarea semana 2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$main.coverage" NAME="main Coverage Results" MODIFIED="1781363637178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo" />
+    <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$tradicional.coverage" NAME="tradicional Coverage Results" MODIFIED="1781363084579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_tradicional" />
   </component>
 </project>
