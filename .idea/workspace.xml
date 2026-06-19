@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec502b75-35cc-4652-8a9f-86388f54f697" name="Changes" comment="tarea semana 2">
-      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo/mascota.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_tradicional/tradicional.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,23 +42,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4174453675754042" />
-      <entry key="MS500" value="2.419316962085973" />
-      <entry key="S2" value="3.891945031142762" />
-      <entry key="S5" value="5.370107450504618" />
-      <entry key="S10" value="6.8644701740780425" />
-      <entry key="S30" value="10.382824973181695" />
-      <entry key="S60" value="14.973841584101658" />
-      <entry key="M2" value="23.178454620962494" />
-      <entry key="M5" value="37.82772474958202" />
-      <entry key="M10" value="47.48303414673923" />
-      <entry key="M15" value="51.66358139197014" />
-      <entry key="M30" value="56.46631061736687" />
-      <entry key="H1" value="59.13422958253074" />
-      <entry key="H2" value="60.54136596328037" />
-      <entry key="H4" value="61.26411373131244" />
-      <entry key="D1" value="61.87642845099726" />
-      <entry key="W1" value="61.98232414617501" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.000000005194747" />
+      <entry key="S60" value="1.0003471102141517" />
+      <entry key="M2" value="1.1137867118832883" />
+      <entry key="M5" value="5.593325516911136" />
+      <entry key="M10" value="17.804027288474007" />
+      <entry key="M15" value="27.120495416146014" />
+      <entry key="M30" value="41.79013446216687" />
+      <entry key="H1" value="52.063293047200645" />
+      <entry key="H2" value="58.15832114238444" />
+      <entry key="H4" value="61.480233326119276" />
+      <entry key="D1" value="64.3991293624509" />
+      <entry key="W1" value="64.91380577654742" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -85,23 +80,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.4590966127246272" />
-      <entry key="MS500" value="1.6413452230983128" />
-      <entry key="S2" value="3.3996598550987214" />
-      <entry key="S5" value="5.016953764590634" />
-      <entry key="S10" value="6.586906732066769" />
-      <entry key="S30" value="10.22655164064889" />
-      <entry key="S60" value="14.873720026893691" />
-      <entry key="M2" value="23.11332312624606" />
-      <entry key="M5" value="37.790617278230414" />
-      <entry key="M10" value="47.46056720095549" />
-      <entry key="M15" value="51.647437838737204" />
-      <entry key="M30" value="56.45755788238299" />
-      <entry key="H1" value="59.12966168060389" />
-      <entry key="H2" value="60.539031180512346" />
-      <entry key="H4" value="61.262933243967964" />
-      <entry key="D1" value="61.87622985034311" />
-      <entry key="W1" value="61.9822957288309" />
+      <entry key="MS100" value="2.3382428225778023E-8" />
+      <entry key="MS500" value="0.029769937438873042" />
+      <entry key="S2" value="0.4153789464748769" />
+      <entry key="S5" value="0.7036841876626988" />
+      <entry key="S10" value="0.8388588603947024" />
+      <entry key="S30" value="0.9431113418682476" />
+      <entry key="S60" value="0.9714836002335389" />
+      <entry key="M2" value="1.0988845644136926" />
+      <entry key="M5" value="5.582480058814649" />
+      <entry key="M10" value="17.792408241662013" />
+      <entry key="M15" value="27.109670447513118" />
+      <entry key="M30" value="41.78232442315723" />
+      <entry key="H1" value="52.05855423135669" />
+      <entry key="H2" value="58.15570514927411" />
+      <entry key="H4" value="61.47885822974432" />
+      <entry key="D1" value="64.39889036157876" />
+      <entry key="W1" value="64.91377138636223" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -127,29 +122,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.cliente.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tradicional.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TAREAS PYTHON 2DO SEM" />
@@ -223,7 +219,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="tarea semana 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$main.coverage" NAME="main Coverage Results" MODIFIED="1781363637178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_poo" />
+    <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$main.coverage" NAME="main Coverage Results" MODIFIED="1781913109369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 4/restaurante_app" />
+    <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$cliente.coverage" NAME="cliente Coverage Results" MODIFIED="1781911300941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 4/restaurante_app/modelos" />
     <SUITE FILE_PATH="coverage/TAREAS_PYTHON_2DO_SEM$tradicional.coverage" NAME="tradicional Coverage Results" MODIFIED="1781363084579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PARCIAL 1/SEMANA 3/programacion_tradicional" />
   </component>
 </project>
