@@ -27,6 +27,7 @@ def mostrar_explicacion_didactica(titulo: str, explicacion: str):
     input("Presione [Enter] para continuar...")
 
 
+
 def precargar_datos_ejemplo(servicio: Restaurante):
     """
     Precarga datos iniciales en el sistema para que sea inmediatamente interactivo,
