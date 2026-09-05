@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Especial",
+        "categoria": "Plato Fuerte",
+        "precio": 8.5,
+        "stock": 13
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizzeta Artesanal",
+        "categoria": "Plato Fuerte",
+        "precio": 12.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo Natural de Naranja",
+        "categoria": "Bebida",
+        "precio": 2.5,
+        "stock": 27
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Tiramisú de la Casa",
+        "categoria": "Postre",
+        "precio": 4.5,
+        "stock": 8
+    }
+]
