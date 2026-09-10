@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Especial",
+        "categoria": "Plato Fuerte",
+        "precio": 8.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizzeta Artesanal",
+        "categoria": "Plato Fuerte",
+        "precio": 12.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo Natural de Naranja",
+        "categoria": "Bebida",
+        "precio": 2.5,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Tiramisú de la Casa",
+        "categoria": "Postre",
+        "precio": 4.5,
+        "stock": 12
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Ensalada César con Pollo",
+        "categoria": "Plato Fuerte",
+        "precio": 7.0,
+        "stock": 8
+    }
+]

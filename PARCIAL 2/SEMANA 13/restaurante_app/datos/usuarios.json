@@ -1,0 +1,17 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Jasmin Ramirez",
+        "correo": "jasmin.ramirez@estudiante.edu.ec"
+    },
+    {
+        "identificacion": "0987654321",
+        "nombre": "Carlos Mendoza",
+        "correo": "carlos.mendoza@email.com"
+    },
+    {
+        "identificacion": "admin",
+        "nombre": "Administrador del Restaurante",
+        "correo": "admin@restaurante.com"
+    }
+]
