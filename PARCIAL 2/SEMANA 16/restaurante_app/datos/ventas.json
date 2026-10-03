@@ -1,0 +1,23 @@
+[
+    {
+        "id_venta": "V001",
+        "identificacion_usuario": "0102030405",
+        "codigo_producto": "P001",
+        "fecha": "2026-09-26 14:30:00",
+        "total": 8.5
+    },
+    {
+        "id_venta": "V002",
+        "identificacion_usuario": "0987654321",
+        "codigo_producto": "P003",
+        "fecha": "2026-09-26 15:15:00",
+        "total": 2.5
+    },
+    {
+        "id_venta": "V003",
+        "identificacion_usuario": "0102030405",
+        "codigo_producto": "P001",
+        "fecha": "2026-09-26 21:37:40",
+        "total": 8.5
+    }
+]

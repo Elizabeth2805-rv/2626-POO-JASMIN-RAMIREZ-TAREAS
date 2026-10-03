@@ -1,0 +1,32 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Jasmin Ramirez",
+        "correo": "jasmin.ramirez@estudiante.edu.ec",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0987654321",
+        "nombre": "Carlos Mendoza",
+        "correo": "carlos.mendoza@email.com",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "admin",
+        "nombre": "Administrador del Restaurante",
+        "correo": "admin@restaurante.com",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0995891298",
+        "nombre": "Junior Loyola",
+        "correo": "junior23@gmail.com",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "0985672589",
+        "nombre": "Andres Lopez",
+        "correo": "andrei12@hotmail.com",
+        "rol": "Cliente"
+    }
+]
